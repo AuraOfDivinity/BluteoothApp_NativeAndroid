@@ -3,4 +3,7 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="button_pressed">#878787</color>
+    <color name="button_focused">#878787</color>
+    <color name="button_default">#000000</color>
 </resources>
